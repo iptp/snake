@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Turn
+comment0.text=\n\ Class\ to\ represent\ wether\ there\ is\ a\ turn\ on\ the\ field.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Turn()
+comment1.text=\n\ Construct\ a\ new\ Turn\n
+comment2.params=
+comment2.target=int\ getRotation()
+comment3.params=r
+comment3.target=void\ setTurn(int)
+comment4.params=
+comment4.target=void\ removeTurn()
+comment5.params=
+comment5.target=boolean\ hasTurn()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\n\ Write\ a\ description\ of\ class\ SnakePart\ here.\n
+comment1.params=
+comment1.target=Snake()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkTurn()
+comment4.params=
+comment4.target=void\ lookForPizza()
+comment5.params=
+comment5.target=boolean\ checkWall()
+comment5.text=\n\ Check\ wether\ the\ SnakePart\ is\ on\ the\ edge\ of\ the\ world\n\ and\ change\ it's\ location\ accordingly\n
+comment6.params=
+comment6.target=void\ configImage()
+numComments=7
